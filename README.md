@@ -4,6 +4,7 @@ ntuaprogintro
 Project 1 : Database of Authors and Books implemented with linked lists
   Takes an input file containing a list of authors, their books and some extra information in the following form :
   Template Input File:
+ 
   1.Number of Authors
   2.  Author#1_Name Author#1_ID(number)
   3.  Author#1_Number_of_Books
